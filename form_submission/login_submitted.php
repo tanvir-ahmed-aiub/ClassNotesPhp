@@ -3,8 +3,9 @@
 	<body>
 		<h1>Login Form Submitted</h1>
 		<?php
-			echo "Username : ". $_REQUEST["username"]."<br>" ;
-			echo "Password : ". $_REQUEST["password"]."<br>" ;
+		    $username = $_REQUEST["username"];
+			echo "Username : ". $username ."<br>" ;
+			echo "Password : ". $_POST["password"]."<br>" ;
 		?>
 	</body>
 </html>
