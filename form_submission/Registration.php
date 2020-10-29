@@ -88,6 +88,7 @@
 							<input type="checkbox" name="hobbies[]" value="Gradenning"> Gardenning<br>
 						</td>
 					</tr>
+					
 					<tr>
 						<td>Profession:</td>
 						<td>

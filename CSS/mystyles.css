@@ -1,0 +1,51 @@
+	body
+	{
+		background-color:#00eeee;
+		border:1px solid black;
+		
+	}
+	p{
+		color:red;
+		background-color:black;
+		font-family:cambria;
+	}
+	.red
+	{
+		color:red;
+		background-color:black;
+		font-family:cambria;
+		border:3px solid blue;
+		padding-left:10px;
+		padding-top:5px;
+		padding-right:20px;
+		padding-bottom:30px;
+		margin:15px;
+		text-align:justify;
+	}
+	.green
+	{
+		color:green;
+		background-color:black;
+		font-family:cambria;
+		text-align:justify;
+		border:2px dashed blue;
+		padding:5px;
+	}
+	.blue
+	{
+		color:blue;
+		background-color:black;
+		font-family:cambria;
+	}
+	.center
+	{
+		margin: 0 auto;
+		width:50%;
+		
+	}	
+	#login
+	{
+		border:1px solid black;
+		width:600px;
+		height:400px;
+	}
