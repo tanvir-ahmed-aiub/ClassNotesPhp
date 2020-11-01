@@ -1,0 +1,17 @@
+<users>
+	<user>
+		<username>tanvir</username>
+		<password>123456</password>
+		<type>admin</type>
+	</user>
+	<user>
+		<username>sabbir</username>
+		<password>1234</password>
+		<type>user</type>
+	</user>
+	<user>
+		<username>karim</username>
+		<password>123</password>
+		<type>user</type>
+	</user>
+</users>
